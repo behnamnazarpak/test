@@ -12,4 +12,7 @@ public class Main {
     public static int subNumber(int a , int b) {
         return a - b;
     }
+
+    public static double divideNumber(int a , int b) { return a / b ;}
+
 }
